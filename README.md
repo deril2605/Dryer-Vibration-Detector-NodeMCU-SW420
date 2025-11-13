@@ -60,4 +60,10 @@ The dashboard shows:
 Upload `main.py` to your board via **Thonny**, **ampy**, or `mpremote`.
 
 ---
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b203ed56-afe1-408d-9b7b-04b8b87241ba" width="300">
+  <img src="https://github.com/user-attachments/assets/49e5d98a-321c-4182-bb1a-e0fe96744230" width="300">
+  <img src="https://github.com/user-attachments/assets/84c20ed1-a9b6-4cc7-98f0-d054b6d16974" width="300">
+  <img src="https://github.com/user-attachments/assets/a7d39fa1-1b0f-4321-9d60-4a3f192e605d" width="300">
+</p>
 
